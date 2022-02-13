@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @EarthCodez
-- 👀 I’m interested in Coding,Plaing MC
+- 👀 I’m interested in Coding,Playing MC
 - 🌱 I’m currently learning from youtube
 - 💞️ I’m looking to collaborate on nothing rn
-- 📫 How to reach me email parameshgaming30@gmail.com or EarthGamer_🎮#3556 is my discord tag
+- 📫 Contact me on my email parameshgaming30@gmail.com or EarthGamer_🎮#3556 on discord
 
 <!---
 EarthCodez/EarthCodez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
